@@ -1,0 +1,9 @@
+I have company urls and looking for page followers, post:comments count, shares count, reactions (thumbsups etc) and post ids
+
+Output should include:
+Page url, followers count, posts from 1/1/2021 (need historical for one time) Post url/id/comments count/shares count/text/all reactions thumbsups and etc in dictionary or as you like , after running it on historical data I'll change date so on a daily basis I'll need only last 7 days posts data which will be fairly low amount
+
+linkedinscraping
+
+
+special: https://www.linkedin.com/company/fairlie-sensetfinance/
